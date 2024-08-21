@@ -7,9 +7,9 @@ The objective of this analysis is to provide a comprehensive overview of sales p
 3. **Total Quantity Sold Analysis**: Analyze the quantity of items sold each month and track changes over time.
 4. **Visual Insights**: Create dynamic and interactive visual representations of sales data to facilitate better understanding and decision-making.
 
-5. ![image](https://github.com/user-attachments/assets/3007964f-fda4-482e-99e9-dc397f9ad083)
+![image](https://github.com/user-attachments/assets/3007964f-fda4-482e-99e9-dc397f9ad083)
 
-6. ## Summary
+## Summary
 1. **Total Sales Analysis**:
    - **Monthly Total Sales**: Calculation of the total sales for each month.
    - **Month-on-Month Sales Change**: Determine the increase or decrease in sales compared to the previous month.
