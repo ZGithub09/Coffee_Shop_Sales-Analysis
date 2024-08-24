@@ -1,12 +1,7 @@
-## Problem Statement
+## Objective 
 The objective of this analysis is to provide a comprehensive overview of sales performance by examining key performance indicators (KPIs) such as total sales, orders, and quantities sold. Additionally, visual insights through various charts are required to help identify trends, patterns, and anomalies in the sales data.
 
-## Objective
-1. **Total Sales Analysis**: Assess monthly sales figures and identify trends by calculating month-on-month changes.
-2. **Total Orders Analysis**: Evaluate the number of orders placed each month and determine monthly variations.
-3. **Total Quantity Sold Analysis**: Analyze the quantity of items sold each month and track changes over time.
-4. **Visual Insights**: Create dynamic and interactive visual representations of sales data to facilitate better understanding and decision-making.
-
+## Dashboard Overview
 ![image](https://github.com/user-attachments/assets/3007964f-fda4-482e-99e9-dc397f9ad083)
 
 ## Summary
