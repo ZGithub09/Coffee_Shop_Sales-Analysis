@@ -1,3 +1,5 @@
+# Coffee Shop Sales Analysis
+
 ## Objective 
 The objective of this analysis is to provide a comprehensive overview of sales performance by examining key performance indicators (KPIs) such as total sales, orders, and quantities sold. Additionally, visual insights through various charts are required to help identify trends, patterns, and anomalies in the sales data.
 
