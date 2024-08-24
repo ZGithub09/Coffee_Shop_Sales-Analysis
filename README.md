@@ -4,7 +4,8 @@ The objective of this analysis is to provide a comprehensive overview of sales p
 ## Dashboard Overview
 ![image](https://github.com/user-attachments/assets/3007964f-fda4-482e-99e9-dc397f9ad083)
 
-## Summary
+## Problem Statement
+
 1. **Total Sales Analysis**:
    - **Monthly Total Sales**: Calculation of the total sales for each month.
    - **Month-on-Month Sales Change**: Determine the increase or decrease in sales compared to the previous month.
